@@ -64,7 +64,7 @@ footer {
   .contact {
     padding-left: 40rem;
     padding-right: 40rem;
-    margin-top: 200px;
+    margin-top: 20px;
   }
 
   .contact h1 {
@@ -105,5 +105,25 @@ footer {
     border-radius: 10px;
     font-size: 16px;
   }
+  h1{
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #122e2f;
+    font-size: 40px;
+    padding: 1%; 
+    margin-top: 20;
+  }
+  h2 {
+    text-align: center;
+    padding: 1%; 
+    margin-top: 10;
+  }
 
-  
+.container-form{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
