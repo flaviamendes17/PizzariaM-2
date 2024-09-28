@@ -57,3 +57,53 @@ footer {
     font-size: 1.25rem;
     padding: 0.25rem;
   }
+
+  
+  /*CONTATO*/ 
+
+  .contact {
+    padding-left: 40rem;
+    padding-right: 40rem;
+    margin-top: 200px;
+  }
+
+  .contact h1 {
+    margin-bottom: 3rem;
+    color: #122e2f;
+    font-size: 40px;
+  }
+
+  .contact form {
+    margin-top: 80px;
+    max-width: 70rem;
+    margin: 1rem auto;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .contact form .input-box {
+    justify-content: center;
+  }
+
+  .contact form .input-box input,
+  .contact form textarea {
+    width: 100%;
+    padding: 1.5rem;
+    font-size: 1.2rem;
+    background: #fff5eb;
+    border-radius: 5px;
+    border: 3px solid  #122e2f;
+    margin: 1rem 0;
+    resize: none;
+  }
+
+  .contact form .btn {
+    padding: 1rem 8rem;
+    margin-top: 1rem;
+    color:  #122e2f; 
+    background-color:  #fff5eb;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+
+  
