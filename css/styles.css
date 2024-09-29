@@ -68,9 +68,9 @@ p {
 }
 
 .contact h1 {
-  margin-bottom: 3rem;
+  margin-bottom: 1%;
   color: #122e2f;
-  font-size: 40px;
+  font-size: 80px;
 }
 
 .contact form {
@@ -128,6 +128,7 @@ iframe {
     border: 5px solid;
     width: 600px; 
     height: 450px; 
+    margin-bottom: 30px;
 }
 
 
